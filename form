@@ -1,0 +1,81 @@
+<div style="width: 100%; height: 1230; position: relative; background: #002B98; overflow: hidden">
+    <div style="width: 100%; height: 160px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <img style="width: 254px; height: 133px; left: 593px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\54b950be941c1e3f007eed20d1499e36baaa3fbb (1).png" />
+    <div style="width: 688px; height: 847px; left: 376px; top: 219px; position: absolute; background: white; border-radius: 35px"></div>
+    <div data-has-icon-end="false" data-has-icon-start="false" data-size="Medium" data-state="Default" data-variant="Primary" style="width: 168px; height: 63px; padding: 12px; left: 636px; top: 921px; position: absolute; background: var(--Background-Positive-Hover, #009951); overflow: hidden; border-radius: 8px; outline: 1px var(--Border-Positive-Default, #02542D) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+        <div style="color: var(--Text-Brand-On-Brand, #F5F5F5); font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">ENTRAR</div>
+    </div>
+    <div>
+     var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("Sobrenome") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("Nome") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("CPF") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("Email") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("Telefone") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("CEP") },
+        trailingIcon = {
+
+        }
+)
+var selected by remember { mutableStateOf(false) }
+
+InputChip(
+        selected = selected,
+        onClick = { selected = !selected },
+        label = { Text("Senha") },
+        trailingIcon = {
+
+        }
+)
+
+    </div>
+</div>
