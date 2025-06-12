@@ -1,0 +1,23 @@
+<div style="width: 100%; height: 3080; position: relative; background: white; overflow: hidden">
+    <div style="width: 1440px; height: 152px; left: 0px; top: 0px; position: absolute; background: #030544; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
+    <div style="width: 399px; height: 78px; left: 88px; top: 241px; position: absolute; background: #1F0774; border-radius: 20px"></div>
+    <div style="left: 205px; top: 258px; position: absolute; color: white; font-size: 36px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Biblioteca</div>
+    <div style="width: 663px; height: 52px; left: 388px; top: 76px; position: absolute; background: white; border-radius: 15px"></div>
+    <div style="left: 460px; top: 88px; position: absolute; color: black; font-size: 24px; font-family: Instrument Sans; font-weight: 500; word-wrap: break-word"> Vagas de emprego   Notícias    Biblioteca    Apoiadores</div>
+    
+    <img class="livro1" style="width: 458px; height: 512px; left: 204px; top: 408px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\ee81f187e9c993af52ba6f28ca8594039d96b530.png" />
+    <img class="livro3" style="width: 458px; height: 512px; left: 204px; top: 1959px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\aa62a9edef65a48da9877edef87c44461a550003.png" />
+    <img class="livro2" style="width: 458px; height: 512px; left: 204px; top: 1146px; position: absolute; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\2ceb231d885e2231006bf7bda9bcf7edf8f21c5a.png" />
+    
+    <img style="width: 442px; height: 499px; left: 662px; top: 418px; position: absolute; border: 1px black solid" src="C:\Users\camil\Downloads\98bc98adaa87432cd64ead87d7daee2bc4fe767e.png" />
+    <img style="width: 442px; height: 508px; left: 662px; top: 1146px; position: absolute; border: 1px black solid" src="C:\Users\camil\Downloads\ea2259645cfced6dd8441ec86f788b62962cbe14.png" />
+    <img style="width: 442px; height: 508px; left: 662px; top: 1959px; position: absolute; border: 1px black solid" src="C:\Users\camil\Downloads\fb6b6dc18fb48f707839c6f446bf75a0dbf8fe0a.png" />
+    
+    <div style="width: 350px; height: 95px; left: 253px; top: 968px; position: absolute; background: #1F0774"></div>
+    <div style="left: 367px; top: 993px; position: absolute; color: white; font-size: 40px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Baixar</div>
+    <div style="width: 350px; height: 95px; left: 253px; top: 2518px; position: absolute; background: #1F0774"></div>
+    <div style="left: 367px; top: 2544px; position: absolute; color: white; font-size: 40px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Baixar</div>
+    <div style="width: 350px; height: 95px; left: 253px; top: 1708px; position: absolute; background: #1F0774"></div>
+    <div style="left: 367px; top: 1731px; position: absolute; color: white; font-size: 40px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Baixar</div>
+    
+</div>
