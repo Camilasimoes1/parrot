@@ -4,7 +4,7 @@
     <div style="width: 399px; height: 78px; left: 520px; top: 204px; position: absolute; background: #1F0774; border-radius: 20px"></div>
     <div style="left: 615px; top: 223px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Ambiente EAD</div>
     
-    <img class="quadro1" style="width: 1466px; height: 241px; left: 0px; top: 379px; position: absolute" src="C:\Users\camil\OneDrive\Imágenes\Capturas de pantalla\Captura de tela 2025-06-11 205853.png" />
+    <img class="quadro1" style="width: 1466px; height: 241px; left: 0px; top: 379px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/Captura%20de%20tela%202025-06-11%20205853.png?raw=true" />
     
     <div style="left: 531px; top: 473px; position: absolute; color: white; font-size: 48px; font-family: Passion One; font-weight: 400; word-wrap: break-word">Inglês no restaurante </div>
     <div style="width: 823px; height: 92px; left: 311px; top: 675px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Entrando no restaurante / Entering the restaurannt
@@ -15,7 +15,7 @@
     <div style="width: 1226.01px; height: 0px; left: 120px; top: 2020px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     <div style="width: 1226.01px; height: 0px; left: 120px; top: 2110px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     
-    <img class="quadro2" style="width: 1220px; height: 676px; left: 123px; top: 822px; position: absolute" src="C:\Users\camil\Downloads\10ba4753b0e4e915432eb9b619213fa41e53bc24.jpg" />
+    <img class="quadro2" style="width: 1220px; height: 676px; left: 123px; top: 822px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/10ba4753b0e4e915432eb9b619213fa41e53bc24.jpg?raw=true" />
     
     <div style="left: 138px; top: 1767px; position: absolute; color: black; font-size: 36px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1.1 Reserva e lugares / reservation and tables </div>
     <div style="left: 138px; top: 1853px; position: absolute; color: black; font-size: 36px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1.2 Assentos / Seating</div>
@@ -23,8 +23,9 @@
     <div style="left: 138px; top: 2033px; position: absolute; color: black; font-size: 36px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1.4 Demora / Delay</div>
     <div style="width: 1226.01px; height: 0px; left: 120px; top: 2195px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     <div style="width: 764px; height: 52px; left: 138px; top: 2126px; position: absolute; color: black; font-size: 36px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1.5 Assentando os clientes / Seating guests</div>
-    <div style="width: 415px; height: 116px; left: 123px; top: 1574px; position: absolute; background: #1F0774"></div>
-    <div style="left: 233px; top: 1603px; position: absolute; color: white; font-size: 40px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Unidades</div>
+    <div style="width: 300px; height: 80px; left: 123px; top: 1574px; position: absolute; background: #1F0774"></div>
+    <div style="left: 203px; top: 1599px; position: absolute; color: white; font-size: 32px; font-family: Hahmlet; font-weight: 700; word-wrap: break-word">Unidades</div>
     <div style="width: 663px; height: 52px; left: 388px; top: 76px; position: absolute; background: white; border-radius: 15px"></div>
     <div style="left: 459px; top: 88px; position: absolute; color: black; font-size: 24px; font-family: Instrument Sans; font-weight: 500; word-wrap: break-word"> Vagas de emprego   Notícias    Biblioteca    Apoiadores</div>
 </div>
+  
