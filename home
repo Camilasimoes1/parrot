@@ -1,21 +1,12 @@
-  <div style="width: 100%; height: 4400; position: relative; background: white; overflow: hidden">
-   
-    <img class="logo" style="width: 218px; height: 148px; left: 0px; top: 16px; position: absolute" src="C:\Users\camil\Downloads\54b950be941c1e3f007eed20d1499e36baaa3fbb.png" />
-    <img class="menulogo" style="width: 56px; height: 52px; left: 830px; top: 97px; position: absolute" src="C:\Users\camil\OneDrive\Imágenes\Capturas de pantalla\Captura de tela 2025-06-11 183853.png" />
+  <div style="width: 1440px; height: 4100px; position: relative; background: white; overflow: hidden">
     
-    <div style="width: 58px; height: 20px; left: 1118px; top: 115px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Login</div>
-    <div style="width: 100px; height: 20px; left: 1279px; top: 114px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Cadastrar</div>
+  <img class="logo" style="width: 218px; height: 148px; left: 0px; top: 16px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/54b950be941c1e3f007eed20d1499e36baaa3fbb%20(1).png?raw=true" />
     
-    <img class="banner1" style="width: 1189px; height: 527px; left: 135px; top: 249px; position: absolute; box-shadow: 0px 4px 12.699999809265137px rgba(0, 0, 0, 0.25)" src="C:\Users\camil\Downloads\c0a89617d83ef09c5203a040167d925047313a47.png" />
-    
-    <div style="width: 575px; height: 52px; left: 400px; top: 97px; position: absolute; background: black; border-radius: 15px"></div>
-    <div style="left: 470px; top: 1
-    
-    <div style="width: 1440px; height: 39px; left: 0px; top: 175px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
+  <div style="width: 1440px; height: 39px; left: 0px; top: 175px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
     <div style="width: 1307px; height: 833px; left: 66px; top: 1703px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
     <div style="left: 531px; top: 1777px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês para táxi / uber / onibus + Ebook</div>
    
-    <img class="q2" style="width: 408px; height: 332px; left: 99px; top: 1747px; position: absolute" src="C:\Users\camil\Downloads\b81ab25282da9fc0960c7243fca7f3f7fb722947.png" />
+    <img class="foto2" class="quad2" style="width: 408px; height: 332px; left: 99px; top: 1747px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/b81ab25282da9fc0960c7243fca7f3f7fb722947.png?raw=true" />
    
     <div style="width: 688px; height: 524px; left: 531px; top: 1852px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Pegando um táxi / Taking a taxi
   <br/><br/>   1.1 Disponibilidade / Availability
@@ -24,32 +15,29 @@
   <br/>   1.4 Dinheiro e custo / Money and cost
   <br/>   1.5 Distância / Distance
   <br/>   1.6 Tempo / Time 
-  <br/>   1.7 Conforto e segurança / Comfort and safety<br/>
-  <br/>2 Durante o trajeto / During the ride <br/>
+  <br/>   1.7 Conforto e segurança / Comfort and safety<br/><br/>2 Durante o trajeto / During the ride <br/>
   <br/>3 Chegando ao destino / Arriving at the destination
   <br/><br/>4 Saindo do taxi / Leaving the taxi</div>
-   
-  <div style="width: 599.07px; height: 0px; left: 531px; top: 1819px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
-    <div style="width: 278px; height: 34px; left: 535px; top: 2385px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
-    <div style="left: 535px; top: 2440px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
+    <div style="width: 599.07px; height: 0px; left: 531px; top: 1819px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
+    <div style="width: 278px; height: 34px; left: 535px; top: 2396px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
+    <div style="left: 535px; top: 2450px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
     <div style="width: 1307px; height: 659px; left: 66px; top: 2605px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
     <div style="left: 531px; top: 2679px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês no hotel + Ebook </div>
     
-    <img class="quadro4" style="width: 408px; height: 349px; left: 99px; top: 2657px; position: absolute" src="C:\Users\camil\Downloads\d6af9ad8e019d31a73fea0c3fab0d2ca86623c8a.jpg" />
-   
-    <div style="width: 688px; height: 291px; left: 531px; top: 2744px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Chegando no hotel / Arriving at the hotel 
+    <img class="foto4" style="width: 408px; height: 349px; left: 99px; top: 2657px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/d6af9ad8e019d31a73fea0c3fab0d2ca86623c8a.jpg?raw=true" />
+    
+    <div style="width: 688px; height: 291px; left: 531px; top: 2739px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Chegando no hotel / Arriving at the hotel 
   <br/><br/>1.1 Entrando no hotel / Entering the hotel
   <br/>1.2 Estacionamento e bagagem / Parking and luggage <br/><br/>2 Fazendo o check-in / Checking in
   <br/><br/>3 Informações, pedidos e reclamações / Information, requests and complaints
   <br/><br/>4 Deixando o hotel / Leaving the hotel </div>
-   
-  <div style="width: 599.07px; height: 0px; left: 531px; top: 2721px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
+    <div style="width: 599.07px; height: 0px; left: 531px; top: 2721px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
     <div style="width: 278px; height: 34px; left: 121px; top: 3028px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
     <div style="left: 123px; top: 3084px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
     <div style="width: 1307px; height: 807px; left: 66px; top: 834px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
     <div style="left: 531px; top: 908px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês no restaurante  + Ebook</div>
-   
-    <img class="quadro1" style="width: 408px; height: 332px; left: 99px; top: 878px; position: absolute" src="C:\Users\camil\Downloads\c8109958ceba686c2273d18e9a0d9ca73a904f37.jpg" />
+    
+    <img class="foto1" style="width: 408px; height: 332px; left: 99px; top: 878px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/c8109958ceba686c2273d18e9a0d9ca73a904f37.jpg?raw=true" />
    
     <div style="width: 688px; height: 244px; left: 531px; top: 976px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Entrando no restaurante / Entering the restaurant<br/><br/>   1.1 Reserva e lugares / reservation and tables 
   <br/>   1.2 Assentos / Seating
@@ -62,20 +50,19 @@
   <br/>5 Servindo a comida / Serving the food
   <br/>6 Durante a refeição / During the meal
   <br/>7 Após a refeição / After the meal </div>
-   
-  <div style="width: 599.07px; height: 0px; left: 531px; top: 950px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
+    <div style="width: 599.07px; height: 0px; left: 531px; top: 950px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
     <div style="left: 99px; top: 1237px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
     <div style="left: 99px; top: 1283px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
     <div style="width: 259px; height: 66px; left: 1047px; top: 1522px; position: absolute; background: #0642DA; border-radius: 12px"></div>
     <div style="left: 1112px; top: 1535px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Começar</div>
     <div style="width: 592px; height: 0px; left: 535px; top: 1032px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     <div style="width: 592px; height: 0px; left: 535px; top: 1249px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-   
     <div data-property-1="Frame 1" style="width: 1221px; height: 577px; left: 116px; top: 3385px; position: absolute; background: white; box-shadow: 0px 4px 8.600000381469727px rgba(0, 0, 0, 0.25); overflow: hidden">
-       
-    <img class="banner2" style="width: 1221px; height: 577px; left: 0px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\89237dc67ddb96962f152fe54fb4005c619f023f.png" />
-    </div>
-    
+        
+      <img style="width: 1221px; height: 577px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/89237dc67ddb96962f152fe54fb4005c619f023f.png?raw=true" />
+        
+   
+      </div>
     <div style="width: 592px; height: 0px; left: 531px; top: 1894px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     <div style="width: 592px; height: 0px; left: 535px; top: 2170px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
     <div style="width: 259px; height: 66px; left: 1047px; top: 2417px; position: absolute; background: #0642DA; border-radius: 12px"></div>
@@ -86,10 +73,17 @@
     <div style="left: 1112px; top: 3172px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Começar</div>
     <div style="width: 152px; height: 47px; left: 1068px; top: 102px; position: absolute; background: #0642DA; border-radius: 12px"></div>
     <div style="width: 152px; height: 47px; left: 1248px; top: 102px; position: absolute; background: #26882F; border-radius: 12px"></div>
-    09px; position: absolute; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 500; word-wrap: break-word">Cursos     Ebooks     Comprar    Biblioteca</div>
+    <div style="width: 58px; height: 20px; left: 1115px; top: 115px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Login</div>
+    <div style="width: 100px; height: 20px; left: 1274px; top: 114px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Cadastrar</div>
     
+    <img class="banner1" style="width: 1189px; height: 527px; left: 125px; top: 249px; position: absolute; box-shadow: 0px 4px 12.699999809265137px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/parrot/blob/main/c0a89617d83ef09c5203a040167d925047313a47.png?raw=true" />
     
+    <div style="width: 575px; height: 52px; left: 432px; top: 97px; position: absolute; background: black; border-radius: 15px"></div>
+    <div style="left: 511px; top: 109px; position: absolute; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 500; word-wrap: break-word">Cursos    Ebooks    Comprar   Biblioteca</div>
     
-    <img class="quadro3" style="width: 493px; height: 355px; left: 66px; top: 2035px; position: absolute" src="C:\Users\camil\Downloads\924cc7d2a1103dce09350f6081916a1f6a6b544d.png" />
+    <img class="logomenu" style="width: 56px; height: 52px; left: 915px; top: 97px; position: absolute" src="" />
+    
+    <img class="foto3" style="width: 493px; height: 355px; left: 66px; top: 2035px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/924cc7d2a1103dce09350f6081916a1f6a6b544d.png?raw=true" />
 </div>
+
 
