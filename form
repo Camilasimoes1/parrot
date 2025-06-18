@@ -1,81 +1,47 @@
 <div style="width: 100%; height: 1230; position: relative; background: #002B98; overflow: hidden">
     <div style="width: 100%; height: 160px; left: 0px; top: 0px; position: absolute; background: white"></div>
-    <img style="width: 254px; height: 133px; left: 593px; top: 0px; position: absolute" src="C:\Users\camil\Downloads\54b950be941c1e3f007eed20d1499e36baaa3fbb (1).png" />
-    <div style="width: 688px; height: 847px; left: 376px; top: 219px; position: absolute; background: white; border-radius: 35px"></div>
-    <div data-has-icon-end="false" data-has-icon-start="false" data-size="Medium" data-state="Default" data-variant="Primary" style="width: 168px; height: 63px; padding: 12px; left: 636px; top: 921px; position: absolute; background: var(--Background-Positive-Hover, #009951); overflow: hidden; border-radius: 8px; outline: 1px var(--Border-Positive-Default, #02542D) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
-        <div style="color: var(--Text-Brand-On-Brand, #F5F5F5); font-size: 16px; font-family: Inter; font-weight: 400; line-height: 16px; word-wrap: break-word">ENTRAR</div>
+    <img style="width: 254px; height: 133px; left: 593px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/54b950be941c1e3f007eed20d1499e36baaa3fbb%20(1).png?raw=true" />
+  <div class="Rectangle46" style="width: 668px; height: 824px; left: 422px; top: 265px; position: absolute; background: white; box-shadow: 0px 4px 19.399999618530273px rgba(0, 0, 0, 0.25); border-radius: 15px"></div>
+    
+  
+    <div class="Component48" style="width: 503px; height: 60px; left: 488px; top: 309px; position: absolute">
+       <input type="text" placeholder="Nome" id="Nome" name="Nome"  style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word">
     </div>
-    <div>
-     var selected by remember { mutableStateOf(false) }
+  
+   
+    <div class="Component50" style="width: 503px; height: 60px; left: 488px; top: 389px; position: absolute">
+         <input type="text" placeholder="Sobrenome" id="sobrenome" name="Sobrenome" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("Sobrenome") },
-        trailingIcon = {
+ <div class="Component50" style="width: 503px; height: 60px; left: 494px; top: 480px; position: absolute">
+         <input type="text" placeholder="CPF" id="CPF" name="CPF" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-        }
-)
-var selected by remember { mutableStateOf(false) }
+ <div class="Component50" style="width: 503px; height: 60px; left: 494px; top: 559px; position: absolute">
+         <input type="text" placeholder="Email" id="Email" name="Email" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("Nome") },
-        trailingIcon = {
+ <div class="Component50" style="width: 503px; height: 60px; left: 494px; top: 639px; position: absolute">
+         <input type="text" placeholder="Telefone" id="Telefone" name="Telefone" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-        }
-)
-var selected by remember { mutableStateOf(false) }
+ <div class="Component50" style="width: 503px; height: 60px; left: 494px; top: 719px; position: absolute">
+         <input type="text" placeholder="CEP" id="CEP" name="CEP" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("CPF") },
-        trailingIcon = {
+ <div class="Component50" style="width: 503px; height: 60px; left: 494px; top: 799px; position: absolute">
+         <input type="text" placeholder="Senha" id="senha" name="Senha" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
 
-        }
-)
-var selected by remember { mutableStateOf(false) }
-
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("Email") },
-        trailingIcon = {
-
-        }
-)
-var selected by remember { mutableStateOf(false) }
-
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("Telefone") },
-        trailingIcon = {
-
-        }
-)
-var selected by remember { mutableStateOf(false) }
-
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("CEP") },
-        trailingIcon = {
-
-        }
-)
-var selected by remember { mutableStateOf(false) }
-
-InputChip(
-        selected = selected,
-        onClick = { selected = !selected },
-        label = { Text("Senha") },
-        trailingIcon = {
-
-        }
-)
-
+    <div class="Component55" style="width: 187px; height: 47px; left: 656px; top: 905px; position: absolute">
+        <div class="Rectangle40" style="width: 187px; height: 47px; left: 0px; top: 0px; position: absolute; background: #557671; border-radius: 11px"></div>
+        <buttom class="Enviar" style="width: 84.53px; height: 18px; left: 51.23px; top: 12px; position: absolute; color: white; font-size: 20px; font-family: Gayathri; font-weight: 400; word-wrap: break-word">ENTRAR</buttom>
     </div>
 </div>
+    
