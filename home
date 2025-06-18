@@ -1,89 +1,659 @@
-  <div style="width: 1440px; height: 4100px; position: relative; background: white; overflow: hidden">
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gudea:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hahmlet:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Hammersmith One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument Sans:wght@500;700&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="curso-ind">
+    		<img class="captura-de-tela-2024-11-13-092" alt="logo" src="https://github.com/Camilasimoes1/parrot/blob/main/54b950be941c1e3f007eed20d1499e36baaa3fbb%20(1).png?raw=true">
+    		
+    		<div class="curso-ind-child">
+    		</div>
+    		<div class="ingls-para-txi">Inglês para táxi / uber / onibus + Ebook</div>
+    		<img class="captura-de-tela-2024-12-05-110" alt="foto2" src="https://github.com/Camilasimoes1/parrot/blob/main/b81ab25282da9fc0960c7243fca7f3f7fb722947.png?raw=true">
+    		
+    		<div class="pegando-um-txi-container">
+      			<p class="pegando-um-txi">1 Pegando um táxi / Taking a taxi</p>
+      			<p class="disponibilidade-availability">
+        				1.1 Disponibilidade / Availability</p>
+      			<p class="disponibilidade-availability">   1.2 Destino / Destination</p>
+      			<p class="disponibilidade-availability">   1.3 Passageiros e bagagem / Passengers and baggage</p>
+      			<p class="disponibilidade-availability">   1.4 Dinheiro e custo / Money and cost</p>
+      			<p class="disponibilidade-availability">   1.5 Distância / Distance</p>
+      			<p class="disponibilidade-availability">   1.6 Tempo / Time </p>
+      			<p class="disponibilidade-availability">   1.7 Conforto e segurança / Comfort and safety
+        				
+        				2 Durante o trajeto / During the ride
+      			</p>
+      			<p class="pegando-um-txi">3 Chegando ao destino / Arriving at the destination</p>
+      			<p class="pegando-um-txi">&nbsp;</p>
+      			<p class="pegando-um-txi">4 Saindo do taxi / Leaving the taxi</p>
+    		</div>
+    		<div class="curso-ind-item">
+    		</div>
+    		<div class="valor-r">Valor  R$</div>
+    		<div class="inicio">Inicio:</div>
+    		<div class="curso-ind-inner">
+    		</div>
+    		<div class="ingls-no-hotel">Inglês no hotel + Ebook </div>
+    		<img class="pool-loews-hotel-santa-monica-icon" alt="foto4" src="https://github.com/Camilasimoes1/parrot/blob/main/d6af9ad8e019d31a73fea0c3fab0d2ca86623c8a.jpg?raw=true">
+    		
+    		<div class="chegando-no-hotel-container">
+      			<p class="pegando-um-txi">1 Chegando no hotel / Arriving at the hotel </p>
+      			<p class="pegando-um-txi">
+        				1.1 Entrando no hotel / Entering the hotel</p>
+      			<p class="pegando-um-txi">1.2 Estacionamento e bagagem / Parking and luggage
+        				
+        				2 Fazendo o check-in / Checking in</p>
+      			<p class="pegando-um-txi">
+        				3 Informações, pedidos e reclamações / Information, requests and complaints</p>
+      			<p class="pegando-um-txi">&nbsp;</p>
+      			<p class="pegando-um-txi">4 Deixando o hotel / Leaving the hotel </p>
+    		</div>
+    		<div class="line-div">
+    		</div>
+    		<div class="valor-r1">Valor  R$</div>
+    		<div class="inicio1">Inicio:</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="ingls-no-restaurante">Inglês no restaurante  + Ebook</div>
+    		<img class="image-icon" alt="foto1" src="https://github.com/Camilasimoes1/parrot/blob/main/c8109958ceba686c2273d18e9a0d9ca73a904f37.jpg?raw=true">
+    		
+    		<div class="entrando-no-restaurante-container">
+      			<p class="disponibilidade-availability">1 Entrando no restaurante / Entering the restaurant
+        				
+        				1.1 Reserva e lugares / reservation and tables </p>
+      			<p class="disponibilidade-availability">   1.2 Assentos / Seating</p>
+      			<p class="disponibilidade-availability">   1.3 Bebidas enquanto espera / Drinks while waiting</p>
+      			<p class="disponibilidade-availability">   1.4 Demora / Delay</p>
+      			<p class="disponibilidade-availability">   1.5 Assentando os clientes / Seating guests </p>
+      			<p class="pegando-um-txi">
+        				2 Antes de fazer o pedido / Before ordering </p>
+      			<p class="pegando-um-txi">3 Antes do prato principal / Before main course </p>
+      			<p class="pegando-um-txi">4 Fazendo o pedido / ordering </p>
+      			<p class="pegando-um-txi">5 Servindo a comida / Serving the food</p>
+      			<p class="pegando-um-txi">6 Durante a refeição / During the meal</p>
+      			<p class="pegando-um-txi">7 Após a refeição / After the meal </p>
+    		</div>
+    		<div class="curso-ind-child1">
+    		</div>
+    		<div class="valor-r2">Valor  R$</div>
+    		<div class="inicio2">Inicio:</div>
+    		<div class="curso-ind-child2" id="rectangle3">
+    		</div>
+    		<div class="comear">Começar</div>
+    		<div class="curso-ind-child3">
+    		</div>
+    		<div class="curso-ind-child4">
+    		</div>
+    		<div class="component-2">
+      			<div class="captura-de-tela-2024-11-14-112-parent">
+        				<img class="captura-de-tela-2024-11-14-112" alt="banner2" src="https://github.com/Camilasimoes1/parrot/blob/main/89237dc67ddb96962f152fe54fb4005c619f023f.png?raw=true">
+        				
     
-  <img class="logo" style="width: 218px; height: 148px; left: 0px; top: 16px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/54b950be941c1e3f007eed20d1499e36baaa3fbb%20(1).png?raw=true" />
-    
-  <div style="width: 1440px; height: 39px; left: 0px; top: 175px; position: absolute; background: white; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset"></div>
-    <div style="width: 1307px; height: 833px; left: 66px; top: 1703px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
-    <div style="left: 531px; top: 1777px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês para táxi / uber / onibus + Ebook</div>
-   
-    <img class="foto2" class="quad2" style="width: 408px; height: 332px; left: 99px; top: 1747px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/b81ab25282da9fc0960c7243fca7f3f7fb722947.png?raw=true" />
-   
-    <div style="width: 688px; height: 524px; left: 531px; top: 1852px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Pegando um táxi / Taking a taxi
-  <br/><br/>   1.1 Disponibilidade / Availability
-  <br/>   1.2 Destino / Destination
-  <br/>   1.3 Passageiros e bagagem / Passengers and baggage
-  <br/>   1.4 Dinheiro e custo / Money and cost
-  <br/>   1.5 Distância / Distance
-  <br/>   1.6 Tempo / Time 
-  <br/>   1.7 Conforto e segurança / Comfort and safety<br/><br/>2 Durante o trajeto / During the ride <br/>
-  <br/>3 Chegando ao destino / Arriving at the destination
-  <br/><br/>4 Saindo do taxi / Leaving the taxi</div>
-    <div style="width: 599.07px; height: 0px; left: 531px; top: 1819px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
-    <div style="width: 278px; height: 34px; left: 535px; top: 2396px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
-    <div style="left: 535px; top: 2450px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
-    <div style="width: 1307px; height: 659px; left: 66px; top: 2605px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
-    <div style="left: 531px; top: 2679px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês no hotel + Ebook </div>
-    
-    <img class="foto4" style="width: 408px; height: 349px; left: 99px; top: 2657px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/d6af9ad8e019d31a73fea0c3fab0d2ca86623c8a.jpg?raw=true" />
-    
-    <div style="width: 688px; height: 291px; left: 531px; top: 2739px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Chegando no hotel / Arriving at the hotel 
-  <br/><br/>1.1 Entrando no hotel / Entering the hotel
-  <br/>1.2 Estacionamento e bagagem / Parking and luggage <br/><br/>2 Fazendo o check-in / Checking in
-  <br/><br/>3 Informações, pedidos e reclamações / Information, requests and complaints
-  <br/><br/>4 Deixando o hotel / Leaving the hotel </div>
-    <div style="width: 599.07px; height: 0px; left: 531px; top: 2721px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
-    <div style="width: 278px; height: 34px; left: 121px; top: 3028px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
-    <div style="left: 123px; top: 3084px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
-    <div style="width: 1307px; height: 807px; left: 66px; top: 834px; position: absolute; background: #F3F0F0; box-shadow: 0px 5px 6.800000190734863px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
-    <div style="left: 531px; top: 908px; position: absolute; color: black; font-size: 24px; font-family: Gudea; font-weight: 400; word-wrap: break-word">Inglês no restaurante  + Ebook</div>
-    
-    <img class="foto1" style="width: 408px; height: 332px; left: 99px; top: 878px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/c8109958ceba686c2273d18e9a0d9ca73a904f37.jpg?raw=true" />
-   
-    <div style="width: 688px; height: 244px; left: 531px; top: 976px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">1 Entrando no restaurante / Entering the restaurant<br/><br/>   1.1 Reserva e lugares / reservation and tables 
-  <br/>   1.2 Assentos / Seating
-  <br/>   1.3 Bebidas enquanto espera / Drinks while waiting
-  <br/>   1.4 Demora / Delay
-  <br/>   1.5 Assentando os clientes / Seating guests 
-  <br/><br/>2 Antes de fazer o pedido / Before ordering 
-  <br/>3 Antes do prato principal / Before main course 
-  <br/>4 Fazendo o pedido / ordering 
-  <br/>5 Servindo a comida / Serving the food
-  <br/>6 Durante a refeição / During the meal
-  <br/>7 Após a refeição / After the meal </div>
-    <div style="width: 599.07px; height: 0px; left: 531px; top: 950px; position: absolute; outline: 1px #8B8080 solid; outline-offset: -0.50px"></div>
-    <div style="left: 99px; top: 1237px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Valor  R$</div>
-    <div style="left: 99px; top: 1283px; position: absolute; color: black; font-size: 24px; font-family: Hahmlet; font-weight: 400; word-wrap: break-word">Inicio:</div>
-    <div style="width: 259px; height: 66px; left: 1047px; top: 1522px; position: absolute; background: #0642DA; border-radius: 12px"></div>
-    <div style="left: 1112px; top: 1535px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Começar</div>
-    <div style="width: 592px; height: 0px; left: 535px; top: 1032px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div style="width: 592px; height: 0px; left: 535px; top: 1249px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div data-property-1="Frame 1" style="width: 1221px; height: 577px; left: 116px; top: 3385px; position: absolute; background: white; box-shadow: 0px 4px 8.600000381469727px rgba(0, 0, 0, 0.25); overflow: hidden">
-        
-      <img style="width: 1221px; height: 577px; left: 0px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/89237dc67ddb96962f152fe54fb4005c619f023f.png?raw=true" />
-        
-   
-      </div>
-    <div style="width: 592px; height: 0px; left: 531px; top: 1894px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div style="width: 592px; height: 0px; left: 535px; top: 2170px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div style="width: 259px; height: 66px; left: 1047px; top: 2417px; position: absolute; background: #0642DA; border-radius: 12px"></div>
-    <div style="left: 1112px; top: 2430px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Começar</div>
-    <div style="width: 592px; height: 0px; left: 531px; top: 2796px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div style="width: 592px; height: 0px; left: 531px; top: 2906px; position: absolute; outline: 1px black solid; outline-offset: -0.50px"></div>
-    <div style="width: 259px; height: 66px; left: 1047px; top: 3159px; position: absolute; background: #0642DA; border-radius: 12px"></div>
-    <div style="left: 1112px; top: 3172px; position: absolute; color: white; font-size: 32px; font-family: Hammersmith One; font-weight: 400; word-wrap: break-word">Começar</div>
-    <div style="width: 152px; height: 47px; left: 1068px; top: 102px; position: absolute; background: #0642DA; border-radius: 12px"></div>
-    <div style="width: 152px; height: 47px; left: 1248px; top: 102px; position: absolute; background: #26882F; border-radius: 12px"></div>
-    <div style="width: 58px; height: 20px; left: 1115px; top: 115px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Login</div>
-    <div style="width: 100px; height: 20px; left: 1274px; top: 114px; position: absolute; color: white; font-size: 20px; font-family: Instrument Sans; font-weight: 700; word-wrap: break-word">Cadastrar</div>
-    
-    <img class="banner1" style="width: 1189px; height: 527px; left: 125px; top: 249px; position: absolute; box-shadow: 0px 4px 12.699999809265137px rgba(0, 0, 0, 0.25)" src="https://github.com/Camilasimoes1/parrot/blob/main/c0a89617d83ef09c5203a040167d925047313a47.png?raw=true" />
-    
-    <div style="width: 575px; height: 52px; left: 432px; top: 97px; position: absolute; background: black; border-radius: 15px"></div>
-    <div style="left: 511px; top: 109px; position: absolute; color: white; font-size: 24px; font-family: Instrument Sans; font-weight: 500; word-wrap: break-word">Cursos    Ebooks    Comprar   Biblioteca</div>
-    
-    <img class="logomenu" style="width: 56px; height: 52px; left: 915px; top: 97px; position: absolute" src="" />
-    
-    <img class="foto3" style="width: 493px; height: 355px; left: 66px; top: 2035px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/924cc7d2a1103dce09350f6081916a1f6a6b544d.png?raw=true" />
-</div>
+        				
+      			</div>
+    		</div>
+    		<div class="curso-ind-child5">
+    		</div>
+    		<div class="curso-ind-child6">
+    		</div>
+    		<div class="curso-ind-child7" id="rectangle4">
+    		</div>
+    		<div class="comear1">Começar</div>
+    		<div class="curso-ind-child8">
+    		</div>
+    		<div class="curso-ind-child9">
+    		</div>
+    		<div class="curso-ind-child10" id="rectangle5">
+    		</div>
+    		<div class="comear2">Começar</div>
+    		<div class="curso-ind-child11" id="rectangle6">
+    		</div>
+    		<div class="curso-ind-child12" id="rectangle7">
+    		</div>
+    		<b class="login">Login</b>
+    		<b class="cadastrar">Cadastrar</b>
+    		<img class="captura-de-tela-2024-12-05-105" alt="banner1" src="https://github.com/Camilasimoes1/parrot/blob/main/c0a89617d83ef09c5203a040167d925047313a47.png?raw=true">
+    		
+    		<div class="curso-ind-child13">
+    		</div>
+    		<img class="vw-t-cross-removebg-preview-1-icon" alt="foto3" src="https://github.com/Camilasimoes1/parrot/blob/main/924cc7d2a1103dce09350f6081916a1f6a6b544d.png?raw=true">
+    		
+    		<div class="cursos" id="cursosText">Cursos   </div>
+    		<div class="ebooks">Ebooks</div>
+    		<div class="comprar">Comprar</div>
+    		<div class="bilblioteca">Bilblioteca</div>
+  	</div>
+  	
+  	<style>
+        .captura-de-tela-2024-11-13-092 {
+  	position: absolute;
+  	top: 16px;
+  	left: 0px;
+  	width: 218px;
+  	height: 148px;
+  	object-fit: cover;
+}
+.curso-ind-child {
+  	position: absolute;
+  	top: 1676px;
+  	left: 108px;
+  	box-shadow: 0px 5px 6.8px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #f3f0f0;
+  	width: 1307px;
+  	height: 833px;
+}
+.ingls-para-txi {
+  	position: absolute;
+  	top: 1750px;
+  	left: 573px;
+  	font-family: Gudea;
+}
+.captura-de-tela-2024-12-05-110 {
+  	position: absolute;
+  	top: 1720px;
+  	left: 141px;
+  	width: 408px;
+  	height: 332px;
+  	object-fit: cover;
+}
+.pegando-um-txi {
+  	margin: 0;
+}
+.disponibilidade-availability {
+  	margin: 0;
+  	white-space: pre-wrap;
+}
+.pegando-um-txi-container {
+  	position: absolute;
+  	top: 1810px;
+  	left: 573px;
+  	display: inline-block;
+  	width: 688px;
+  	height: 524px;
+}
+.curso-ind-item {
+  	position: absolute;
+  	top: 1791.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #8b8080;
+  	box-sizing: border-box;
+  	width: 600.1px;
+  	height: 1px;
+}
+.valor-r {
+  	position: absolute;
+  	top: 2369px;
+  	left: 577px;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 278px;
+  	height: 34px;
+}
+.inicio {
+  	position: absolute;
+  	top: 2423px;
+  	left: 577px;
+}
+.curso-ind-inner {
+  	position: absolute;
+  	top: 2578px;
+  	left: 108px;
+  	box-shadow: 0px 5px 6.8px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #f3f0f0;
+  	width: 1307px;
+  	height: 659px;
+}
+.ingls-no-hotel {
+  	position: absolute;
+  	top: 2652px;
+  	left: 573px;
+  	font-family: Gudea;
+}
+.pool-loews-hotel-santa-monica-icon {
+  	position: absolute;
+  	top: 2630px;
+  	left: 141px;
+  	width: 408px;
+  	height: 349px;
+  	object-fit: cover;
+}
+.chegando-no-hotel-container {
+  	position: absolute;
+  	top: 2712px;
+  	left: 573px;
+  	display: inline-block;
+  	width: 688px;
+  	height: 291px;
+}
+.line-div {
+  	position: absolute;
+  	top: 2693.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #8b8080;
+  	box-sizing: border-box;
+  	width: 600.1px;
+  	height: 1px;
+}
+.valor-r1 {
+  	position: absolute;
+  	top: 3001px;
+  	left: 163px;
+  	white-space: pre-wrap;
+  	display: inline-block;
+  	width: 278px;
+  	height: 34px;
+}
+.inicio1 {
+  	position: absolute;
+  	top: 3057px;
+  	left: 165px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 826px;
+  	left: 108px;
+  	box-shadow: 0px 5px 6.8px rgba(0, 0, 0, 0.25);
+  	border-radius: 20px;
+  	background-color: #f3f0f0;
+  	width: 1307px;
+  	height: 807px;
+}
+.ingls-no-restaurante {
+  	position: absolute;
+  	top: 900px;
+  	left: 573px;
+  	font-family: Gudea;
+  	white-space: pre-wrap;
+}
+.image-icon {
+  	position: absolute;
+  	top: 870px;
+  	left: 141px;
+  	width: 408px;
+  	height: 332px;
+  	object-fit: cover;
+}
+.entrando-no-restaurante-container {
+  	position: absolute;
+  	top: 973px;
+  	left: 573px;
+  	display: inline-block;
+  	width: 688px;
+  	height: 244px;
+}
+.curso-ind-child1 {
+  	position: absolute;
+  	top: 941.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #8b8080;
+  	box-sizing: border-box;
+  	width: 600.1px;
+  	height: 1px;
+}
+.valor-r2 {
+  	position: absolute;
+  	top: 1229px;
+  	left: 141px;
+  	white-space: pre-wrap;
+}
+.inicio2 {
+  	position: absolute;
+  	top: 1275px;
+  	left: 141px;
+}
+.curso-ind-child2 {
+  	position: absolute;
+  	top: 1514px;
+  	left: 1089px;
+  	border-radius: 12px;
+  	background-color: #0642da;
+  	width: 259px;
+  	height: 66px;
+  	cursor: pointer;
+}
+.comear {
+  	position: absolute;
+  	top: 1527px;
+  	left: 1154px;
+  	font-size: 32px;
+  	font-family: 'Hammersmith One';
+  	color: #fff;
+}
+.curso-ind-child3 {
+  	position: absolute;
+  	top: 1023.5px;
+  	left: 576.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.curso-ind-child4 {
+  	position: absolute;
+  	top: 1240.5px;
+  	left: 576.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.captura-de-tela-2024-11-14-112 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-1121 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1316px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-1122 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2632px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-1123 {
+  	position: absolute;
+  	top: 0px;
+  	left: 3948px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-1124 {
+  	position: absolute;
+  	top: 0px;
+  	left: 5264px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-1125 {
+  	position: absolute;
+  	top: 0px;
+  	left: 6580px;
+  	width: 1221px;
+  	height: 577px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-11-14-112-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 7801px;
+  	height: 577px;
+}
+.component-2 {
+  	position: absolute;
+  	top: 3390px;
+  	left: 151px;
+  	box-shadow: 0px 4px 8.6px rgba(0, 0, 0, 0.25);
+  	background-color: #fff;
+  	width: 1221px;
+  	height: 577px;
+  	overflow: hidden;
+}
+.curso-ind-child5 {
+  	position: absolute;
+  	top: 1866.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.curso-ind-child6 {
+  	position: absolute;
+  	top: 2142.5px;
+  	left: 576.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.curso-ind-child7 {
+  	position: absolute;
+  	top: 2390px;
+  	left: 1089px;
+  	border-radius: 12px;
+  	background-color: #0642da;
+  	width: 259px;
+  	height: 66px;
+  	cursor: pointer;
+}
+.comear1 {
+  	position: absolute;
+  	top: 2403px;
+  	left: 1154px;
+  	font-size: 32px;
+  	font-family: 'Hammersmith One';
+  	color: #fff;
+}
+.curso-ind-child8 {
+  	position: absolute;
+  	top: 2768.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.curso-ind-child9 {
+  	position: absolute;
+  	top: 2878.5px;
+  	left: 572.5px;
+  	border-top: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 593px;
+  	height: 1px;
+}
+.curso-ind-child10 {
+  	position: absolute;
+  	top: 3132px;
+  	left: 1089px;
+  	border-radius: 12px;
+  	background-color: #0642da;
+  	width: 259px;
+  	height: 66px;
+  	cursor: pointer;
+}
+.comear2 {
+  	position: absolute;
+  	top: 3145px;
+  	left: 1154px;
+  	font-size: 32px;
+  	font-family: 'Hammersmith One';
+  	color: #fff;
+}
+.curso-ind-child11 {
+  	position: absolute;
+  	top: 100px;
+  	left: 1127px;
+  	border-radius: 12px;
+  	background-color: #0642da;
+  	width: 152px;
+  	height: 47px;
+  	cursor: pointer;
+}
+.curso-ind-child12 {
+  	position: absolute;
+  	top: 100px;
+  	left: 1307px;
+  	border-radius: 12px;
+  	background-color: #26882f;
+  	width: 152px;
+  	height: 47px;
+  	cursor: pointer;
+}
+.login {
+  	position: absolute;
+  	top: 113px;
+  	left: 1174px;
+  	font-size: 20px;
+  	display: inline-block;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+  	width: 58px;
+  	height: 20px;
+}
+.cadastrar {
+  	position: absolute;
+  	top: 112px;
+  	left: 1333px;
+  	font-size: 20px;
+  	display: inline-block;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+  	width: 100px;
+  	height: 20px;
+}
+.captura-de-tela-2024-12-05-105 {
+  	position: absolute;
+  	top: 228px;
+  	left: 167px;
+  	width: 1189px;
+  	height: 527px;
+  	object-fit: cover;
+}
+.curso-ind-child13 {
+  	position: absolute;
+  	top: 97px;
+  	left: 432px;
+  	border-radius: 15px;
+  	background-color: #000;
+  	width: 575px;
+  	height: 52px;
+}
+.vw-t-cross-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 2008px;
+  	left: 108px;
+  	width: 493px;
+  	height: 355px;
+  	object-fit: cover;
+}
+.cursos {
+  	position: absolute;
+  	top: 109px;
+  	left: 491px;
+  	font-weight: 500;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+  	white-space: pre-wrap;
+  	cursor: pointer;
+}
+.ebooks {
+  	position: absolute;
+  	top: 109px;
+  	left: 596px;
+  	font-weight: 500;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+}
+.comprar {
+  	position: absolute;
+  	top: 109px;
+  	left: 704px;
+  	font-weight: 500;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+}
+.bilblioteca {
+  	position: absolute;
+  	top: 109px;
+  	left: 831px;
+  	font-weight: 500;
+  	font-family: 'Instrument Sans';
+  	color: #fff;
+}
+.curso-ind {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 4396px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Hahmlet;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+    </style>
+  	
+  	
+  	<script>
+    		var rectangle3 = document.getElementById("rectangle3");
+    		if(rectangle3) {
+      			rectangle3.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var rectangle4 = document.getElementById("rectangle4");
+    		if(rectangle4) {
+      			rectangle4.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var rectangle5 = document.getElementById("rectangle5");
+    		if(rectangle5) {
+      			rectangle5.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var rectangle6 = document.getElementById("rectangle6");
+    		if(rectangle6) {
+      			rectangle6.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var rectangle7 = document.getElementById("rectangle7");
+    		if(rectangle7) {
+      			rectangle7.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}
+    		
+    		var cursosText = document.getElementById("cursosText");
+    		if(cursosText) {
+      			cursosText.addEventListener("click", function (e) {
+        				// Add your code here
+      			});
+    		}</script></body>
+</html>
 
 
