@@ -1,0 +1,21 @@
+<div style="width: 100%; height: 1230; position: relative; background: #002B98; overflow: hidden">
+    <div style="width: 100%; height: 160px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <img style="width: 254px; height: 133px; left: 593px; top: 0px; position: absolute" src="https://github.com/Camilasimoes1/parrot/blob/main/54b950be941c1e3f007eed20d1499e36baaa3fbb%20(1).png?raw=true" />
+  <div class="Rectangle46" style="width: 595px; height: 566px; left: 422px; top: 265px; position: absolute; background: white; box-shadow: 0px 4px 19.399999618530273px rgba(0, 0, 0, 0.25); border-radius: 15px"></div>
+    <div class="AmbienteEad" style="left: 583px; top: 340px; position: absolute; color: rgb(0, 0, 0); font-size: 32px; font-family: Jost; font-weight: 600; word-wrap: break-word">AMBIENTE EAD</div>
+  
+    <div class="Component48" style="width: 503px; height: 60px; left: 468px; top: 449px; position: absolute">
+       <input type="text" placeholder="Email" id="email" name="email"  style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word">
+    </div>
+  
+   
+    <div class="Component50" style="width: 503px; height: 60px; left: 468px; top: 566px; position: absolute">
+         <input type="text" placeholder="Senha" id="senha" name="senha" style="width: 503px; height: 60px; left: 0px; top: 0px; position: absolute; background: rgba(239.26, 239.26, 239.26, 0); border-radius: 20px; border: 3px rgba(56.51, 52.13, 52.13, 0.75) solid; color: black; font-size: 24px; font-family: Bai Jamjuree; font-weight: 600; word-wrap: break-word"></div>
+       
+    </div>
+    <div class="Component55" style="width: 187px; height: 47px; left: 626px; top: 695px; position: absolute">
+        <div class="Rectangle40" style="width: 187px; height: 47px; left: 0px; top: 0px; position: absolute; background: #557671; border-radius: 11px"></div>
+        <buttom class="Enviar" style="width: 84.53px; height: 18px; left: 51.23px; top: 12px; position: absolute; color: white; font-size: 20px; font-family: Gayathri; font-weight: 400; word-wrap: break-word">ENTRAR</buttom>
+    </div>
+</div>
+    
